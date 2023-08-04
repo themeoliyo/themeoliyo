@@ -1,15 +1,15 @@
 ## Hi,
 
-I'm Ahmed, Front End Developer & WordPress Developer from Bangladesh. I spend most of my time coding outstanding projects. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. I have created many WordPress theme. I have worked with creative teams, which involves daily stand-ups and communications.
+I'm Ahmed, Front End Developer & WordPress Developer from Bangladesh. I spend most of my time coding outstanding projects. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. I have created many WordPress themes. I have worked with creative teams, which involves daily stand-ups and communications.
 
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/themeoliyo) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themeoliyo) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themeoliyo@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-🤔 &emsp;I’m looking for people who can help me with programming knowledge.<br/>
+🤔 &emsp; I’m looking for people who can help me with programming knowledge.<br/>
 :e-mail: &emsp;How to reach me: themeoliyo@gmail.com<br/>
-📱 &emsp;Contact number: +880 1634 336000
+📱 &emsp; Contact number: +880 1711-227979
 
 #### Languages and Tools:
 
